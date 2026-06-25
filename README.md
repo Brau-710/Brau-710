@@ -1,16 +1,35 @@
-## Hi there 👋
+# Olá, eu sou o Bráulio 👋
 
-<!--
-**Brau-710/Brau-710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia Informática
 
-Here are some ideas to get you started:
+💻 Desenvolvedor apaixonado por tecnologia, programação e resolução de problemas através de software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Atualmente estou a desenvolver o **HustleKuia**, uma plataforma digital criada para conectar clientes e prestadores de serviços, ajudando profissionais a aumentarem a sua visibilidade e a encontrarem novas oportunidades.
+
+## Áreas de Interesse
+
+* Desenvolvimento Web
+* Bases de Dados
+* Cloud Computing
+* DevOps
+* Engenharia de Software
+* Desenvolvimento de Produtos Digitais
+
+## Tecnologias
+
+* Python
+* PHP
+* JavaScript
+* HTML & CSS
+* Tailwind CSS
+* MySQL
+* Supabase
+* Git & GitHub
+
+## Atualmente
+
+* Melhorando e expandindo o HustleKuia
+* Aprendendo mais sobre Cloud, DevOps e Arquitetura de Software
+* Procurando novos desafios e oportunidades de crescimento
+
+> "Transformar ideias em soluções reais através da tecnologia."
