@@ -1,6 +1,6 @@
 # Olá, sou o Bráulio António 👋
 
-🎓 Estudante finalista do Ensino Médio Técnico de Informática
+🎓 Estudante finalista do Ensino Médio Técnico de Informática.
 
 💻 Criador de projetos tecnológicos com interesse em desenvolvimento de software.
 
